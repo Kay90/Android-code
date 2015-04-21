@@ -1,4 +1,4 @@
-package com.k.android_code;
+package com.k;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
